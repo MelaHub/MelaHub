@@ -12,7 +12,7 @@ I'm a software engineer with more than 10 years of experience in different indus
 
 :girl: In 2018 I've joined [SheTech Italy](https://github.com/shetechitaly) as CTO, where I organize bootcamps and events with SheTech for empowering women in tech
 
-### Languages and tools
+### What I'm passionate about
 
 ![Python 3.6](https://img.shields.io/badge/python-green)
 ![Scala](https://img.shields.io/badge/scala-green)
@@ -23,6 +23,8 @@ I'm a software engineer with more than 10 years of experience in different indus
 ![Kafka](https://img.shields.io/badge/kafka-blue)
 ![GraphQL](https://img.shields.io/badge/graphql-blue)
 ![Hasura](https://img.shields.io/badge/hasura-blue)
+![Domain Driven Design](https://img.shields.io/badge/domaindrivendesign-blueviolet)
+![Event Storming](https://img.shields.io/badge/eventstorming-blueviolet)
 
 ### Stay in touch!
 
