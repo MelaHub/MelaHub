@@ -8,7 +8,7 @@ I'm a software engineer with more than 10 years of experience in different indus
 
 :briefcase: I then decided to enter the Italian startup system being a software engineer working on political intelligence topics
 
-:heavy_dollar_sign: In 2016 I've landed in the fintech world, I've been one of the very first employees in [Credimi](https://github.com/credimi)
+:heavy_dollar_sign: In 2016 I've landed in the fintech world, I've been one of the very first employees in [Credimi](https://github.com/credimi). I've started as a senior software engineer, then grew to tech lead, eventually landed as CTO
 
 :girl: In 2018 I've joined [SheTech Italy](https://github.com/shetechitaly) as CTO, where I organize bootcamps and events with SheTech for empowering women in tech
 
