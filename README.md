@@ -12,19 +12,21 @@ I'm a software engineer with more than 10 years of experience in different indus
 
 :girl: In 2018 I've joined [SheTech Italy](https://github.com/shetechitaly) as CTO, where I organize bootcamps and events with SheTech for empowering women in tech
 
-### What I'm passionate about
+:nerd: In 2022 I've become AWS Hero and Codemotion ambassador
 
-![Python 3.6](https://img.shields.io/badge/python-green)
-![Scala](https://img.shields.io/badge/scala-green)
-![Bash](https://img.shields.io/badge/bash-green)
-![AWS](https://img.shields.io/badge/aws-orange)
-![GCP](https://img.shields.io/badge/gcp-orange)
-![Kubernetes](https://img.shields.io/badge/kubernetes-blue)
-![Kafka](https://img.shields.io/badge/kafka-blue)
-![GraphQL](https://img.shields.io/badge/graphql-blue)
-![Hasura](https://img.shields.io/badge/hasura-blue)
-![Domain Driven Design](https://img.shields.io/badge/domaindrivendesign-blueviolet)
-![Event Storming](https://img.shields.io/badge/eventstorming-blueviolet)
+### I build with...
+
+![Python 3.6](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](	https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
+
+### I love to talk about...
+...developer experience, domain driven design and event storming
 
 ### Stay in touch!
 
