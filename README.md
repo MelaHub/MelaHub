@@ -12,7 +12,7 @@ I'm a software engineer with more than 10 years of experience in different indus
 
 :girl: In 2018 I've joined [SheTech Italy](https://github.com/shetechitaly) as CTO, where I organize bootcamps and events with SheTech for empowering women in tech
 
-:nerd: In 2022 I've become AWS Hero and Codemotion ambassador
+🤓 In 2022 I've become AWS Hero and Codemotion ambassador
 
 ### I build with...
 
